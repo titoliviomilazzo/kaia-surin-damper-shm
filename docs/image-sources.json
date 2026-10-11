@@ -1,0 +1,68 @@
+[
+  {
+    "asset": "dashboard-reference-20261006.jpg",
+    "source_filename": "2026-10-06-dashboard-en-desktop.png",
+    "caption": "Historical UI fixture screenshot, 6 October 2026; not the latest deployed interface or live telemetry",
+    "source_sha256": "53ae1fa125d18a619a3c667f6852135d8dba353b675e7e8d4caee99933346e0f",
+    "published_sha256": "92d2a03542952ce21f578c36fe6b37820fa953135aac89a7f00e0c5db22cc4e5",
+    "pixel_size": [
+      1440,
+      1150
+    ]
+  },
+  {
+    "asset": "damper-principle.jpg",
+    "source_filename": "damper_english_clean.png",
+    "caption": "Provided damper/component schematic; explanatory model, not fitted project parameters",
+    "source_sha256": "83f255964bf345717450f5bcd23feaf84b998c98a0a606dce970ff2ea37d7949",
+    "published_sha256": "b0c804c7bbe9c6790507fdf8aabfd93b36f873d87d4bfa82c8c55ce6ff67528c",
+    "pixel_size": [
+      2172,
+      597
+    ]
+  },
+  {
+    "asset": "damper-layout.jpg",
+    "source_filename": "damper_plan_en.png",
+    "caption": "Provided reference damper layout V1R; proposed layout, not an as-built confirmation",
+    "source_sha256": "d7de1fdf16f5734664fad11ed9cdfe676795d814c5485c815d171a14daa5d366",
+    "published_sha256": "89910a237481c4ea3a1b08aff5e1ea8585d8ed7055ab102df9350f6187109381",
+    "pixel_size": [
+      1276,
+      744
+    ]
+  },
+  {
+    "asset": "accelerometer.jpg",
+    "source_filename": "07_accelerometer_actual_v2.png",
+    "caption": "Provided exhibition figure showing an accelerometer and mounting context; not confirmation of current commissioning",
+    "source_sha256": "74c334cc3d322d60a80e574da099694ed54b36f66eee0cd5b554711ba3a770f0",
+    "published_sha256": "918a9e89cb189ffe90fdb964b19f9883166abe696a502176865b4e56020a0881",
+    "pixel_size": [
+      2400,
+      1350
+    ]
+  },
+  {
+    "asset": "gateway.jpg",
+    "source_filename": "08_gateway_actual_v1.png",
+    "caption": "Provided exhibition figure showing the gateway hardware; not evidence of current connectivity",
+    "source_sha256": "d34bc43a00e4b4d5b9bef14d55f6da7632230c5c72ac7338516a8ee873b98b0f",
+    "published_sha256": "b16b1c6d71823ab1268b7297a8c90bdfd548da22392d2c92b54c7a5dabe5d51c",
+    "pixel_size": [
+      2400,
+      1350
+    ]
+  },
+  {
+    "asset": "displacement-concept.jpg",
+    "source_filename": "16_wps_wire_displacement_exhibition_v1.png",
+    "caption": "Provided photorealistic installation concept for a wire displacement sensor; not an as-built photograph",
+    "source_sha256": "a2e2a82021ae8b6099443395211d4cb86cedc2a48be9f5aa04fd6932fc73d223",
+    "published_sha256": "95e7679a83e552c971dd3e69c748abaede47cbe13efa45d54ced593de83c729c",
+    "pixel_size": [
+      2400,
+      1350
+    ]
+  }
+]

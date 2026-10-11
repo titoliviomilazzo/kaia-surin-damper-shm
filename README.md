@@ -16,6 +16,14 @@ The project brings together a **viscous-damper retrofit** and **instrumented obs
 
 The monitoring system uses four accelerometers with three axes each, wire displacement sensors near dampers, an on-site collection PC, data storage and a read-only web dashboard. Displayed locations remain provisional until field installation is recorded and checked.
 
+![Damper and its explanatory mechanical model](docs/assets/damper-principle.jpg)
+
+*Provided component schematic: the damper and cylinder-rod flexibility are separate parts of the explanatory model. This is not a fitted project model or a measured performance result.*
+
+![Reference damper layout](docs/assets/damper-layout.jpg)
+
+*Reference layout V1R: six proposed damper positions, four on 2F and two on 3F. Final as-built locations must be verified. [See the illustrated sensor, gateway and displacement guide](docs/visual-guide.md).*
+
 | Reader | Start here |
 |---|---|
 | School representatives | View connection status, the school model and available reports. Contact the project team when observations stop or become old. |
@@ -27,6 +35,10 @@ The monitoring system uses four accelerometers with three axes each, wire displa
 Field installation and commissioning are pending at this checkpoint. The dashboard is accessible, but access to the page does not establish that live sensors are connected. The team is preparing installation, acquisition/storage checks and network/recovery tests. No structural-safety certification or verified retrofit improvement percentage is reported here.
 
 ## Use the dashboard in one minute
+
+![Earlier English dashboard preview with sensors awaiting connection](docs/assets/dashboard-reference-20261006.jpg)
+
+*Dashboard reference captured on 6 October 2026, using synthetic UI inputs with no operational connection. This earlier layout explains status and reports; it is not a screenshot of the latest deployment or live field measurements. Use the full dashboard link for the current interface.*
 
 1. Open the full link above. Select **English, Thai or Korean**. The requested default/order is English → Thai → Korean; the latest interface changes require rollout to the public service.
 2. Start with the summary and school model. A highlighted location is a selection, not evidence that a sensor is online.
