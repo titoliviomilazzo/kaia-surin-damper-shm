@@ -1,0 +1,12 @@
+# Public information only. Measurement files belong in private storage.
+data/
+raw/
+backups/
+*.mseed
+*.csv
+*.npz
+*.zip
+.env*
+credentials
+*-key.txt
+__pycache__/

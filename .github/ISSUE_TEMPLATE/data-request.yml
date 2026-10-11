@@ -1,0 +1,21 @@
+name: Request measurement data
+description: Ask the project owner about a data subset. Do not attach private data or contact details.
+title: "[Data request] "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: "This request is public. Do not post personal contact details, credentials or private files. Agree file transfer privately with the project owner."
+  - type: textarea
+    id: purpose
+    attributes:
+      label: Purpose / intended analysis
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: Requested period, channels and file format
+      description: Include whether installation, calibration or quality metadata are needed.
+    validations:
+      required: true
